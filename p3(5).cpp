@@ -30,8 +30,8 @@ class dis
 
 int main()
 {
-    cout << "Pari M. Chudasama"<<endl;
-    cout << "220130318002"<<endl;
+    cout << "Janvi k. Chavda"<<endl;
+    cout << "220130318090"<<endl;
     dis d1;
     d1.get_distance();
     d1.display_distance();
